@@ -1,2 +1,2 @@
-# orpheushacks
-The Source for the OrpheusHacks website, an incredibly bad website I thre together for the OrpheusHacks Hackathon.
+# Orpheus Hacks
+The source for the OrpheusHacks website, an <!-- awesome project haha funny hacktoberfest reference --> incredibly bad website I threw together for the Orpheus Hacks Hackathon.
